@@ -1,0 +1,204 @@
+local uilibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/iExotixPloitz/IEP/main/Hub"))()
+local windowz = uilibrary:CreateWindow("IEP", "Hub", true)
+
+
+
+
+if game.PlaceId == 4490140733 then
+
+--Main
+--My Resturant
+
+local Page1 = windowz:CreatePage("Main")
+
+
+local Section1 = Page1:CreateSection("Best Auto Farm")
+
+Section1:CreateButton("                                              -Milk-UP-", function ()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LasagnaLINKS/LasagnaLinksHUB/main/Ifjdbzkwbxbekjdjeksncjwobckeknenskwbcorjcjjejdbb"))()
+end)
+
+local Section1 = Page1:CreateSection("Fast Customer")
+
+Section1:CreateButton("                                            -Rafacasari-", function ()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Rafacasari/roblox-scripts/main/mr.lua"))()
+end)
+
+local Section1 = Page1:CreateSection("Fast AutoFarm")
+
+Section1:CreateButton("                                                -exodus", function ()
+    loadstring(game:HttpGet("https://system-exodus.com/scripts/MyRestaurant/MyRestaurant.lua", true))()
+end)
+
+Section1:CreateButton("", function ()
+    Print("Brake")
+end)
+
+-- page 2
+
+local Page2 = windowz:CreatePage("Contact")
+
+
+local Section2 = Page2:CreateSection("Need Help?")
+
+
+
+Section2:CreateButton("                                           -! LAK #7391-", function ()
+    Print("1")
+end)
+
+Section2:CreateButton("", function ()
+    Print("brake")
+end)
+
+Section2:CreateButton("                                      -OgGamingO #0462-", function ()
+    Print("2")
+end)
+
+Section2:CreateButton("                       Join any discord server for Help!", function ()
+    Print("brake")
+end)
+
+Section2:CreateButton("                                      .gg/emebBefdQk", function ()
+    Print("2")
+end)
+
+Section2:CreateButton("                                      .gg/drhmb5Yhq4", function ()
+    Print("2")
+end)
+
+-- Page 3
+
+local Page3 = windowz:CreatePage("Info")
+
+
+local Section3 = Page3:CreateSection("Games you can use!")
+
+
+Section3:CreateButton("My Resturant", function ()
+    Print("1")
+end)
+
+Section3:CreateButton("Bloxburg", function ()
+    Print("2")
+end)
+
+Section3:CreateButton("", function ()
+    Print("3")
+end)
+
+Section3:CreateButton("", function ()
+    Print("4")
+end)
+
+Section3:CreateButton("More to Come!", function ()
+    Print("5")
+end)
+
+elseif game.PlaceId == 185655149 then
+
+--Main
+--Bloxburg
+
+local Page1 = windowz:CreatePage("Main")
+
+
+local Section1 = Page1:CreateSection("Fast Auto Farm")
+
+Section1:CreateButton(" -Vedrox Hub-", function ()
+    loadstring(game:HttpGet("https://vedrox.com/loader/merge.lua"))()
+end)
+
+local Section1 = Page1:CreateSection("Scar Hub")
+
+Section1:CreateButton(" -Painful-", function ()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PainfulDestroyer/Roblox/main/Bloxburg"))()
+end)
+
+local Section1 = Page1:CreateSection("lux Hub")
+
+Section1:CreateButton(" -LuxHub-", function ()
+    loadstring(game:HttpGet('https://luxhub.cc/script.lua'))()
+end)
+
+--page 2
+
+local Page2 = windowz:CreatePage("Anti AFK")
+
+
+local Section2 = Page2:CreateSection("Dont get Kicked out the Game!")
+
+
+
+Section2:CreateButton(" -Anti AFK-", function ()
+    loadstring(game:HttpGet('https://pastebin.com/raw/5Wj1sLa2'))()
+end)
+
+local Section2 = Page2:CreateSection("More Anti AFK")
+
+Section2:CreateButton(" -Anti AFK V2", function ()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/LoadstringypVvhJBq4QNz", true))()
+end)
+
+local Section2 = Page2:CreateSection("If those didnt work Use this!")
+
+Section2:CreateButton("-Anti AFK-", function ()
+    loadstring(game:HttpGet('https://pastebin.com/raw/qRvtHtup'))()
+end)
+
+-- Page 3
+
+local Page3 = windowz:CreatePage("Info")
+
+
+local Section3 = Page3:CreateSection("Games you can use!")
+
+
+Section3:CreateButton("My Resturant", function ()
+    Print("1")
+end)
+
+Section3:CreateButton("Bloxburg", function ()
+    Print("2")
+end)
+
+Section3:CreateButton("", function ()
+    Print("3")
+end)
+
+Section3:CreateButton("", function ()
+    Print("4")
+end)
+
+Section3:CreateButton("More to Come!", function ()
+    Print("5")
+end)
+
+-- page 4
+
+local Page4 = windowz:CreatePage("Contact")
+
+
+local Section4 = Page4:CreateSection("Get in Contact!")
+
+
+
+Section4:CreateButton("                                           -! LAK #7391-", function ()
+    Print("1")
+end)
+
+
+Section4:CreateButton("                                      -OgGamingO #0462-", function ()
+    Print("2")
+end)
+
+local Section1 = Page1:CreateSection("Join Our Discord")
+
+Section1:CreateButton("                                      .gg/emebBefdQk", function ()
+    Print("2")
+end)
+
+Section1:CreateButton("                                      .gg/drhmb5Yhq4", function ()
+    Print("2")
+end)
+end
